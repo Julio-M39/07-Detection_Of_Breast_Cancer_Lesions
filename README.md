@@ -2,6 +2,10 @@
 
 ## Detecção de Lesões de Câncer de Mama em Imagens Histopatológicas
 
+OBS: Caso o Github não renderize o arquivo .ipynb use os links abaixo:
+
+- <a href="https://nbviewer.org/github/Julio-M39/01-Tuberculosis-Classification/blob/main/Primeira%20Etapa.ipynb">Primeira Etapa!</a> 
+
 ### Definição do Projeto
 
 O câncer de mama é a forma mais comum de câncer em mulheres. Identificar e categorizar com precisão os subtipos de câncer de mama é uma tarefa clínica importante e métodos automatizados podem ser usados para economizar tempo e reduzir erros. O processo que é usado para detectar o câncer de mama é demorado e pequenas áreas malignas podem ser perdidas. Com isso podemos utilizar o aprendizado profundo para classificar os subtipos de câncer e otimizar o trabalho dos especialistas.
